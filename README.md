@@ -8,7 +8,7 @@ The project was built as a reusable RAG pipeline rather than a domain-specific c
 
 ## 🎥 Demo
 
-![Demo]<img width="480" height="248" alt="demo" src="https://github.com/user-attachments/assets/289d27ef-b920-4784-af65-102923bda1c4" />
+<img width="480" height="248" alt="demo" src="https://github.com/user-attachments/assets/289d27ef-b920-4784-af65-102923bda1c4" />
 
 ## 🧠 What Does It Do?
 
