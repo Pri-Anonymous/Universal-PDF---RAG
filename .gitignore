@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# ChromaDB
+data/chromadb/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
